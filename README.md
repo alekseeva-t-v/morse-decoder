@@ -2,6 +2,8 @@
 
 ![Morse code decoder](./public/morse-code.jpg)
 
+Алгоритмическая задача курса [**_"JavaScript/Front-end"_** Stage 0](https://rs.school/js-stage0/)
+
 ## Описание Задачи
 
 Задача — написать функцию, которая декодирует азбуку Морзе и возвращает строку.
